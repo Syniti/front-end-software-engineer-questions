@@ -47,7 +47,7 @@ const SubscriptionManager = ({
                 <Heading size={200}>{subscription.daysLeft}</Heading>
               </Table.TextCell>
               <Table.TextCell flex={0.25}>
-                {subscription.purchase === "true" ? (
+                {subscription.purchase ? (
                   <Heading size={200}>{"-"}</Heading>
                 ) : (
                   <Heading

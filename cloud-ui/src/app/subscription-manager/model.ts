@@ -4,7 +4,7 @@ export interface ISubscription {
   name: string;
   daysLeft: string;
   startDate: string;
-  purchase: string;
+  purchase: boolean;
   id: Key | null | undefined;
 }
 

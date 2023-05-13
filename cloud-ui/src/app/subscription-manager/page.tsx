@@ -5,13 +5,14 @@ export default function SubscriptionManagerPage() {
   async function getSubscriptionList(): Promise<SubscriptionListResponse> {
     "use server";
 
-    const emailRequest = await fetch("http://localhost:3000/api/subscription", {
-      next: {
-        revalidate: 10
+    const subscriptionRequest = await fetch(
+      "http://localhost:3000/api/subscription",
+      {
+        cache: "reload",
       }
-    });
+    );
 
-    const response = await emailRequest.json();
+    const response = await subscriptionRequest.json();
 
     return response;
   }
