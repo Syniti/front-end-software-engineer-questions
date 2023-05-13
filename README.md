@@ -42,13 +42,18 @@ NOTE: Every example mentioned in the exercise is just that, an example. You neit
 1. What’s your proudest achievement? It can be a personal project or something
    you’ve worked on professionally. Just a short paragraph is fine, but I’d
    love to know why you’re proud of it.
+--> So far in my career, my proudest achievement has been to learn how to code and apply that learning to create something tangible, and was able deploy my first application to production on live project. Additionally, I am proud of my continuous improvement in coding skills over the years. Equally important, I am proud to have been able to coach trainees, junior staff, and interns. I follow the principle of learning, implementing, and growing every day, not just in terms of technology, but in all aspects of life, which helps me achieve small victories every day.
 
-2. What's a personal project you're currently working on? This could be a
+1. What's a personal project you're currently working on? This could be a
    coding side project, hobby, or otherwise real world project you're working
    on.
+--> I spend my free time working out in the gym, lifting weights, or going for a run. Alternatively, I enjoy browsing the internet to learn about recent trends in technology, such as ChatGPT-AI, watching tutorials, DIY videos, and experimenting with new technologies to create prototypes. I also love video editing, and when I have some free time, I create gym videos on Instagram, mostly motivational. If you're interested, you can check out my Instagram handle: sid_k_9_6.
 
-3. Tell us about a technical book or article you read recently, why you liked
+1. Tell us about a technical book or article you read recently, why you liked
    it, and why we should read it.
+   <https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm>
+--> Twitter recently open-sourced its recommendation algorithm in a blog post titled "Twitter recommendation algorithm". The article discusses how Twitter gathers data from various sources to populate users' feeds. I found it particularly interesting because the recommendation algorithm is a critical component of any social networking app, and it's essential to understand how content is ranked and presented to users. The article provides insight into how Twitter manages billions of tweets and presents users with specific 100-250 tweets on their feeds by filtering out their interests, likes, dislikes, and so on. I would highly recommend reading this article and its related articles, as it offers a great resource for understanding recommendation algorithms.
 
-4. Tell us about one of your favorite products (physical or software) and one
+1. Tell us about one of your favorite products (physical or software) and one
    specific aspect that makes it truly great.
+-->  One of my all-time favorite products is the Ergonomic GreenSoul Gaming Chair. It's not just a regular chair, but a life-saver for anyone who needs to sit for long hours. I have been using this chair for a while now, and I cannot imagine working without it. The lumbar support and adjustable armrests make it incredibly comfortable to sit in, even for extended periods of time.If you're someone who spends a lot of time sitting, I highly recommend checking out this chair.
