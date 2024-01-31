@@ -15,13 +15,13 @@ export default function Dashboard() {
       {
         id: "ckajbskjd",
         name: "Storage",
-        stat: "Your storage id almost full",
+        stat: "Your storage is almost full",
         redirectLink: "/storage",
       },
       {
         id: "amsnbcuwe",
         name: "Photos",
-        stat: "Photos Backup Complete.",
+        stat: "Photos backup complete.",
         redirectLink: "/photo",
       },
       {
