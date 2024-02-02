@@ -19,7 +19,7 @@ export default function Dashboard() {
         redirectLink: "/storage",
       },
       {
-        id: "amsnbcuwe",
+        id: "asdcsdaaaaa",
         name: "Photos",
         stat: "Photos backup complete.",
         redirectLink: "/photo",
