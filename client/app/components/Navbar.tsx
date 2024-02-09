@@ -10,7 +10,7 @@ const Navbar: React.FC = () => {
   };
 
   return (
-    <nav className="bg-gray-800 py-4 px-6 flex items-center justify-between rounded-lg absolute top-[2px] w-full md:w-[80%]">
+    <nav className="bg-gray-800 py-4 px-6 flex items-center justify-between rounded-lg absolute md:top-[2px] w-full md:w-[85%]">
       <div className="flex items-center">
         <h1 className="text-white font-bold text-lg">SAAS</h1>
       </div>
