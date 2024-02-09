@@ -42,7 +42,16 @@ NOTE: Every example mentioned in the exercise is just that, an example. You neit
 1. What’s your proudest achievement? It can be a personal project or something
    you’ve worked on professionally. Just a short paragraph is fine, but I’d
    love to know why you’re proud of it.
+   
 
+   My proudest achievement is my participation in Google Summer of Code. I had the opportunity to contribute to Chromium's large codebase, which led to further collaboration with the      Chromium team. During my time with them, I accomplished the following:
+
+- Improved DIAL protocol reliability by introducing timeout actions, significantly enhancing the stability of casting sessions.
+- Led the implementation of User Metric Analysis for cast button usage and optimized media controls for Remote playback events, enhancing resource efficiency.
+- Employed GTest as a robust unit testing framework to ensure the development of professional-grade, reliable code.
+
+   I am proud of this achievement because it allowed me to work on impactful projects, collaborate with a talented team, and contribute to open-source software that is widely used and     respected in the industry.
+<hr/>
 2. What's a personal project you're currently working on? This could be a
    coding side project, hobby, or otherwise real world project you're working
    on.
