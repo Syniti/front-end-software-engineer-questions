@@ -17,9 +17,22 @@
 
 
 body {
-  color: rgb(var(--foreground-rgb));
-  padding: 10rem;
-  /* border: 2px solid #6775f5; */
+  padding: 0.1rem; /* Default padding */
+  overflow-x: hidden; 
+}
+
+/* Media query for devices with a minimum width of 768px (typical tablet size) */
+@media (min-width: 768px) {
+  body {
+    padding: 5rem; /* Adjust the padding for tablets */
+  }
+}
+
+/* Media query for devices with a minimum width of 1024px (typical desktop size) */
+@media (min-width: 1024px) {
+  body {
+    padding: 7rem; /* Adjust the padding for desktops */
+  }
 }
 
 @layer utilities {
