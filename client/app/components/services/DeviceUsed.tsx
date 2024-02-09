@@ -25,7 +25,7 @@ const DevicesUsed: React.FC<DevicesUsedProps> = ({ devices }) => {
   };
 
   return (
-    <div className="bg-white text-black rounded-lg  w-[60%]  h-[14rem]">
+    <div className="bg-white text-black rounded-lg  w-[60%]  h-[14rem] my-[2rem] mx-[1rem]">
       <h2 className="text-2xl font-bold mb-4">Devices Used</h2>
       <ul>
         {devices.map((device) => (

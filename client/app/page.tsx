@@ -5,6 +5,7 @@ import PhotoLibrary from './components/services/PhotoLibrary'
 import SubscriptionManager from './components/services/SubscriptionManager';
 import DevicesUsed from './components/services/DeviceUsed';
 import UserProfile from './components/UserProfile';
+import Navbar from './components/Navbar';
 
 export default function Home(){
 
@@ -67,9 +68,7 @@ export default function Home(){
   return (
     <div>
      
-      {/* <UserDetails/> */}
-      {/* <Applications/> */}
-      {/* <Emails/> */}
+      <Navbar/>
       <UserProfile username={username} tenant={tenant} location={location} profilePhotoUrl={profilePhotoUrl} />
       <Emails initialUserEmails={userEmails} />
       <div className='flex items-center justify-between px-[2]'>
