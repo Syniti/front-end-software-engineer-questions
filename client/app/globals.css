@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .test {
+    border: 2px solid #6775f5;
+  }
+}
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+
+
+body {
+  color: rgb(var(--foreground-rgb));
+  padding: 10rem;
+  /* border: 2px solid #6775f5; */
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
